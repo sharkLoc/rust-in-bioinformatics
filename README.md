@@ -26,6 +26,7 @@ A collection of genomics software tools written in Rust
 - [fakit](https://github.com/sharkLoc/fakit) : fakit: a simple program for fasta file manipulation
 - [fq](https://github.com/stjude-rust-labs/fq) : Command line utility for manipulating Illumina-generated FASTQ files.
 - [ngs](https://github.com/stjude-rust-labs/ngs) : Command line utility for working with next-generation sequencing files.
+- [poasta](https://github.com/broadinstitute/poasta) : Fast and exact gap-affine partial order alignment
 - [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools) : A set of command line utilities based on Rust-Bio.
 - [skc](https://github.com/mbhall88/skc) : Shared k-mer content between two genomes
 
