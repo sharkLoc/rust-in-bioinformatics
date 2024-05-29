@@ -17,7 +17,9 @@ A collection of genomics software tools written in Rust
 ##### csv
 
 - [csview](https://github.com/wfxr/csview) : 📠 Pretty and fast csv viewer for cli with cjk/emoji support
+- [csvlens](https://github.com/YS-L/csvlens) : csvlens is a command line CSV file viewer. It is like less but made for CSV.
 - [madato](https://github.com/inosion/madato) : Markdown Cmd Line, Rust and JS library for Excel to Markdown Tables
+- [tabiew](https://github.com/shshemi/tabiew) : A lightweight TUI app to view and query CSV files
 - [xsv](https://github.com/BurntSushi/xsv) : A fast CSV command line toolkit written in Rust.  
 - [xtab](https://github.com/sharkLoc/xtab) : CSV command line utilities
 
