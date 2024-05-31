@@ -42,6 +42,10 @@ A collection of genomics software tools written in Rust
 - [fqtk](https://github.com/fulcrumgenomics/fqtk) : Fast FASTQ sample demultiplexing in Rust.
 - [rasusa](https://github.com/mbhall88/rasusa) : Randomly subsample sequencing reads
 
+#### format
+- [bigtools](https://github.com/jackh726/bigtools) : A high-performance BigWig and BigBed library in Rust
+- [d4tools](https://github.com/38/d4-format) : The D4 Quantitative Data Format
+
 ##### gff3
 
 - [gffkit](https://github.com/sharkloc/gffkit) : a simple program for gff3 file manipulation
