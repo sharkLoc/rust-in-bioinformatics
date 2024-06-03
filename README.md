@@ -45,6 +45,8 @@ A collection of genomics software tools written in Rust
 #### format
 - [bigtools](https://github.com/jackh726/bigtools) : A high-performance BigWig and BigBed library in Rust
 - [d4tools](https://github.com/38/d4-format) : The D4 Quantitative Data Format
+- [thirdkind](https://github.com/simonpenel/thirdkind) : Drawing reconciled phylogenetic trees allowing 1, 2 or 3 reconcillation levels
+
 
 ##### gff3
 
