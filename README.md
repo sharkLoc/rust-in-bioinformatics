@@ -80,6 +80,7 @@ A collection of genomics software tools written in Rust
 ##### rna
 
 - [rnapkin](https://github.com/ukmrs/rnapkin) : drawing RNA secondary structure with style; instantly
+- [squab](https://github.com/zaeleus/squab) : Alignment-based gene expression quantification
 
 ##### singlecell
 
