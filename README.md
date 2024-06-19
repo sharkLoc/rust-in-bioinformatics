@@ -32,6 +32,7 @@ A collection of genomics software tools written in Rust
 - [poasta](https://github.com/broadinstitute/poasta) : Fast and exact gap-affine partial order alignment
 - [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools) : A set of command line utilities based on Rust-Bio.
 - [skc](https://github.com/mbhall88/skc) : Shared k-mer content between two genomes
+- [sketchy](https://github.com/esteinig/sketchy) : Genomic neighbor typing of bacterial pathogens using MinHash 🐀
 
 ##### fastq
 
@@ -59,6 +60,7 @@ A collection of genomics software tools written in Rust
 - [HiPhase](https://github.com/PacificBiosciences/HiPhase) : Small variant, structural variant, and short tandem repeat phasing tool for PacBio HiFi reads
 - [longshot](https://github.com/pjedge/longshot) : diploid SNV caller for error-prone reads
 - [nextpolish2](https://github.com/Nextomics/NextPolish2) : Repeat-aware polishing genomes assembled using HiFi long reads
+- [nanoq](https://github.com/esteinig/nanoq) : Minimal but speedy quality control for nanopore reads in Rust 🐻
 - [smrest](https://github.com/jts/smrest) : Tumour-only somatic mutation calling using long reads
 - [trgt](https://github.com/PacificBiosciences/trgt) : Tandem repeat genotyping and visualization from PacBio HiFi data
 
