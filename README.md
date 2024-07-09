@@ -67,6 +67,7 @@ A collection of genomics software tools written in Rust
 ##### metagenomics
 
 - [coverm](https://github.com/wwood/CoverM) : Read coverage calculator for metagenomics
+- [kmertools](https://github.com/anuradhawick/kmertools) : kmer based feature extraction tool for bioinformatics, metagenomics, AI/ML and more
 - [skani](https://github.com/bluenote-1577/skani) : Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs.
 - [sylph](https://github.com/bluenote-1577/sylph) : ultrafast genome querying and taxonomic profiling for metagenomic samples by abundance-corrected minhash.
 - [vircov](https://github.com/esteinig/vircov) : Viral genome coverage evaluation for metagenomic diagnostics 🩸
@@ -82,11 +83,13 @@ A collection of genomics software tools written in Rust
 
 ##### proteomics
 
+- [foldmason](https://github.com/steineggerlab/foldmason) : Foldmason builds multiple alignments of large structure sets.
 - [sage](https://github.com/lazear/sage) : Proteomics search & quantification so fast that it feels like magic
 
 ##### rna
 
 - [rnapkin](https://github.com/ukmrs/rnapkin) : drawing RNA secondary structure with style; instantly
+- [R2Dtool](https://github.com/comprna/R2Dtool) : R2Dtool is a set of genomics utilities for handling, integrating, and viualising isoform-mapped RNA feature data.
 - [squab](https://github.com/zaeleus/squab) : Alignment-based gene expression quantification
 
 ##### singlecell
