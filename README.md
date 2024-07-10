@@ -33,6 +33,7 @@ A collection of genomics software tools written in Rust
 - [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools) : A set of command line utilities based on Rust-Bio.
 - [skc](https://github.com/mbhall88/skc) : Shared k-mer content between two genomes
 - [sketchy](https://github.com/esteinig/sketchy) : Genomic neighbor typing of bacterial pathogens using MinHash 🐀
+- [tidk](https://github.com/tolkit/telomeric-identifier) : Identify and find telomeres, or telomeric repeats in a genome.
 
 ##### fastq
 
