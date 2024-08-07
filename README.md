@@ -109,3 +109,6 @@ A collection of genomics software tools written in Rust
 
 - [echtvar](https://github.com/brentp/echtvar) : using all the bits for echt rapid variant annotation and filtering
 - [vcf2parquet](https://github.com/natir/vcf2parquet) : Convert vcf in parquet
+
+##### other
+- [htsget-rs](https://github.com/umccr/htsget-rs) : A server implementation of the htsget protocol for bioinformatics in Rust
