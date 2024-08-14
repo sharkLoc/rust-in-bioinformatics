@@ -108,6 +108,7 @@ A collection of genomics software tools written in Rust
 ##### vcf
 
 - [echtvar](https://github.com/brentp/echtvar) : using all the bits for echt rapid variant annotation and filtering
+- [mehari](https://github.com/varfish-org/mehari): VEP-like tool for sequence ontology and HGVS annotation of VCF files
 - [vcf2parquet](https://github.com/natir/vcf2parquet) : Convert vcf in parquet
 
 ##### other
