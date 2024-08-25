@@ -71,6 +71,7 @@ A collection of genomics software tools written in Rust
 
 - [coverm](https://github.com/wwood/CoverM) : Read coverage calculator for metagenomics
 - [kmertools](https://github.com/anuradhawick/kmertools) : kmer based feature extraction tool for bioinformatics, metagenomics, AI/ML and more
+- [nohuman](https://github.com/mbhall88/nohuman) : Remove human reads from a sequencing run
 - [skani](https://github.com/bluenote-1577/skani) : Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs.
 - [sylph](https://github.com/bluenote-1577/sylph) : ultrafast genome querying and taxonomic profiling for metagenomic samples by abundance-corrected minhash.
 - [vircov](https://github.com/esteinig/vircov) : Viral genome coverage evaluation for metagenomic diagnostics 🩸
