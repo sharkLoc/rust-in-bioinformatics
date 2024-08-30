@@ -91,7 +91,7 @@ A collection of genomics software tools written in Rust
 - [sage](https://github.com/lazear/sage) : Proteomics search & quantification so fast that it feels like magic
 
 ##### rna
-
+- [oarfish](https://github.com/COMBINE-lab/oarfish) : long read RNA-seq quantification
 - [rnapkin](https://github.com/ukmrs/rnapkin) : drawing RNA secondary structure with style; instantly
 - [R2Dtool](https://github.com/comprna/R2Dtool) : R2Dtool is a set of genomics utilities for handling, integrating, and viualising isoform-mapped RNA feature data.
 - [squab](https://github.com/zaeleus/squab) : Alignment-based gene expression quantification
