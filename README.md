@@ -21,6 +21,7 @@ A collection of genomics software tools written in Rust
 - [madato](https://github.com/inosion/madato) : Markdown Cmd Line, Rust and JS library for Excel to Markdown Tables
 - [tabiew](https://github.com/shshemi/tabiew) : A lightweight TUI app to view and query CSV files
 - [tv](https://github.com/alexhallam/tv) : 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+- [xan](https://github.com/medialab/xan) : The CSV magician
 - [xsv](https://github.com/BurntSushi/xsv) : A fast CSV command line toolkit written in Rust.  
 - [xtab](https://github.com/sharkLoc/xtab) : CSV command line utilities
 
