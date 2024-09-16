@@ -80,6 +80,7 @@ A collection of genomics software tools written in Rust
 ##### pangenomics
 
 - [impg](https://github.com/pangenome/impg) : implicit pangenome graph
+- [panacus](https://github.com/marschall-lab/panacus) : Panacus is a tool for computing statistics for GFA-formatted pangenome graphs
 
 ##### phylogenomics
 
