@@ -120,3 +120,4 @@ A collection of genomics software tools written in Rust
 
 ##### other
 - [htsget-rs](https://github.com/umccr/htsget-rs) : A server implementation of the htsget protocol for bioinformatics in Rust
+- [sufr](https://github.com/TravisWheelerLab/sufr) : Parallel Construction of Suffix Arrays in Rust
