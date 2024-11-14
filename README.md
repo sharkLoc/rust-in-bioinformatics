@@ -30,6 +30,7 @@ A collection of genomics software tools written in Rust
 - [fakit](https://github.com/sharkLoc/fakit) : fakit: a simple program for fasta file manipulation
 - [filterx](https://github.com/dwpeng/filterx) : process any file in tabular format. Fasta/fastq/GTF/GFF/VCF/SAM/BED
 - [fq](https://github.com/stjude-rust-labs/fq) : Command line utility for manipulating Illumina-generated FASTQ files.
+- [gsearch](https://github.com/jean-pierreboth/gsearch) : Approximate nearest neighbour search for microbial genomes based on hash metric
 - [kfc](https://github.com/lrobidou/KFC) : KFC (K-mer Fast Counter) is a fast and space-efficient k-mer counter based on hyper-k-mers.
 - [ngs](https://github.com/stjude-rust-labs/ngs) : Command line utility for working with next-generation sequencing files.
 - [nail](https://github.com/TravisWheelerLab/nail) : Nail is an Alignment Inference tooL
