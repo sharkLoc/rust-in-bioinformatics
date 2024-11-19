@@ -35,6 +35,7 @@ A collection of genomics software tools written in Rust
 - [kfc](https://github.com/lrobidou/KFC) : KFC (K-mer Fast Counter) is a fast and space-efficient k-mer counter based on hyper-k-mers.
 - [ngs](https://github.com/stjude-rust-labs/ngs) : Command line utility for working with next-generation sequencing files.
 - [nail](https://github.com/TravisWheelerLab/nail) : Nail is an Alignment Inference tooL
+- [palindrome-finder](https://github.com/brianli314/palindrome-finder) : A bioinformatics tool written in Rust to find palindromic sequences in DNA
 - [poasta](https://github.com/broadinstitute/poasta) : Fast and exact gap-affine partial order alignment
 - [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools) : A set of command line utilities based on Rust-Bio.
 - [skc](https://github.com/mbhall88/skc) : Shared k-mer content between two genomes
