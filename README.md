@@ -98,6 +98,7 @@ A collection of genomics software tools written in Rust
 
 ##### proteomics
 
+- [align-cli](https://github.com/snijderlab/align-cli) : A CLI for pairwise alignment of sequences, using both normal and mass based alignment.
 - [foldmason](https://github.com/steineggerlab/foldmason) : Foldmason builds multiple alignments of large structure sets.
 - [sage](https://github.com/lazear/sage) : Proteomics search & quantification so fast that it feels like magic
 
