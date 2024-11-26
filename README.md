@@ -80,6 +80,7 @@ A collection of genomics software tools written in Rust
 ##### metagenomics
 
 - [coverm](https://github.com/wwood/CoverM) : Read coverage calculator for metagenomics
+- [kun_peng](https://github.com/eric9n/Kun-peng) : Kun-peng: an ultra-fast, low-memory footprint and accurate taxonomy classifier for all
 - [kmertools](https://github.com/anuradhawick/kmertools) : kmer based feature extraction tool for bioinformatics, metagenomics, AI/ML and more
 - [nohuman](https://github.com/mbhall88/nohuman) : Remove human reads from a sequencing run
 - [skani](https://github.com/bluenote-1577/skani) : Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs.
