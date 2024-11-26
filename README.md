@@ -71,6 +71,7 @@ A collection of genomics software tools written in Rust
 - [herro](https://github.com/lbcb-sci/herro) : HERRO is a highly-accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1 or R9.4.1 reads (read length of >= 10 kbps is recommended).
 - [HiPhase](https://github.com/PacificBiosciences/HiPhase) : Small variant, structural variant, and short tandem repeat phasing tool for PacBio HiFi reads
 - [longshot](https://github.com/pjedge/longshot) : diploid SNV caller for error-prone reads
+- [lrge](https://github.com/mbhall88/lrge) : Genome size estimation from long read overlaps
 - [nextpolish2](https://github.com/Nextomics/NextPolish2) : Repeat-aware polishing genomes assembled using HiFi long reads
 - [nanoq](https://github.com/esteinig/nanoq) : Minimal but speedy quality control for nanopore reads in Rust 🐻
 - [smrest](https://github.com/jts/smrest) : Tumour-only somatic mutation calling using long reads
