@@ -97,6 +97,7 @@ A collection of genomics software tools written in Rust
 ##### phylogenomics
 
 - [nextclade](https://github.com/nextstrain/nextclade) : Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement
+- [unicore](https://github.com/steineggerlab/unicore) : Universal and efficient core gene phylogeny with Foldseek and ProstT5 
 - [segul](https://github.com/hhandika/segul) : An ultrafast and memory efficient tool for phylogenomics
 
 ##### proteomics
