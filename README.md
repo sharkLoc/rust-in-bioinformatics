@@ -59,6 +59,7 @@ A collection of genomics software tools written in Rust
 - [gia](https://github.com/noamteyssier/gia) : gia: Genomic Interval Arithmetic
 - [granges](https://github.com/vsbuffalo/granges) : A Rust library and command line tool for working with genomic ranges and their data.
 - [intspan](https://github.com/wang-q/intspan) : Command line tools for IntSpan related bioinformatics operations
+- [recmap](https://github.com/vsbuffalo/recmap) : A command line tool and Rust library for working with recombination maps.
 - [thirdkind](https://github.com/simonpenel/thirdkind) : Drawing reconciled phylogenetic trees allowing 1, 2 or 3 reconcillation levels
 
 
@@ -134,4 +135,5 @@ A collection of genomics software tools written in Rust
 ##### other
 - [htsget-rs](https://github.com/umccr/htsget-rs) : A server implementation of the htsget protocol for bioinformatics in Rust
 - [ibu](https://github.com/noamteyssier/ibu) : a rust library for high throughput binary encoding of genomic sequences
+- [scidataflow](https://github.com/vsbuffalo/scidataflow): Command line scientific data management tool
 - [sufr](https://github.com/TravisWheelerLab/sufr) : Parallel Construction of Suffix Arrays in Rust
