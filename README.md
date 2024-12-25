@@ -57,6 +57,7 @@ A collection of genomics software tools written in Rust
 - [d4tools](https://github.com/38/d4-format) : The D4 Quantitative Data Format
 - [gfa2bin](https://github.com/MoinSebi/gfa2bin) : Convert various graph-related data to PLINK file. In addition, we offer multiple commands for filtering or modifying the generated PLINK files.
 - [gia](https://github.com/noamteyssier/gia) : gia: Genomic Interval Arithmetic
+- [granges](https://github.com/vsbuffalo/granges) : A Rust library and command line tool for working with genomic ranges and their data.
 - [intspan](https://github.com/wang-q/intspan) : Command line tools for IntSpan related bioinformatics operations
 - [thirdkind](https://github.com/simonpenel/thirdkind) : Drawing reconciled phylogenetic trees allowing 1, 2 or 3 reconcillation levels
 
