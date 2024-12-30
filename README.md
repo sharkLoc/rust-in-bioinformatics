@@ -8,6 +8,7 @@ A collection of genomics software tools written in Rust
 
 ##### bam
 - [alignoth](https://github.com/alignoth/alignoth) : Creating alignment plots from bam files
+- [bamrescue](https://github.com/arkanosis/bamrescue) : Utility to check Binary Sequence Alignment / Map (BAM) files for corruption and repair them
 - [best](https://github.com/google/best) : Bam Error Stats Tool (best): analysis of error types in aligned reads
 - [modkit](https://github.com/nanoporetech/modkit) : A bioinformatics tool for working with modified bases
 - [mapAD](https://github.com/mpieva/mapAD) : An aDNA aware short-read mapper
