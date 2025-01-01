@@ -71,6 +71,7 @@ A collection of genomics software tools written in Rust
 
 ##### longreads
 
+- [Autocycler](https://github.com/rrwick/Autocycler) : A tool for generating consensus long-read assemblies for bacterial genomes
 - [chopper](https://github.com/wdecoster/chopper) : Rust implementation of [NanoFilt](https://github.com/wdecoster/nanofilt)+[NanoLyse](https://github.com/wdecoster/nanolyse), both originally written in Python. This tool, intended for long read sequencing such as PacBio or ONT, filters and trims a fastq file.
 - [herro](https://github.com/lbcb-sci/herro) : HERRO is a highly-accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1 or R9.4.1 reads (read length of >= 10 kbps is recommended).
 - [HiPhase](https://github.com/PacificBiosciences/HiPhase) : Small variant, structural variant, and short tandem repeat phasing tool for PacBio HiFi reads
