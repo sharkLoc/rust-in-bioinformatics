@@ -52,6 +52,7 @@ A collection of genomics software tools written in Rust
 - [fqgrep](https://github.com/fulcrumgenomics/fqgrep) : Grep for FASTQ files
 - [fqkit](https://github.com/sharkLoc/fqkit) : 🦀 Fqkit: A simple and cross-platform program for fastq file manipulation  
 - [fqtk](https://github.com/fulcrumgenomics/fqtk) : Fast FASTQ sample demultiplexing in Rust.
+- [grepq](https://github.com/rbfinch/grepq): quickly filter fastq files by matching sequences to a set of regex patterns
 - [rasusa](https://github.com/mbhall88/rasusa) : Randomly subsample sequencing reads
 
 #### format
