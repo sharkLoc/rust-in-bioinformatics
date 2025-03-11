@@ -58,6 +58,7 @@ A collection of genomics software tools written in Rust
 - [rasusa](https://github.com/mbhall88/rasusa) : Randomly subsample sequencing reads
 
 #### format
+- [atlas](https://github.com/stjude-rust-labs/atlas) : Enables storing, querying, transforming, and visualizing of multidimensional count data.
 - [bigtools](https://github.com/jackh726/bigtools) : A high-performance BigWig and BigBed library in Rust
 - [d4tools](https://github.com/38/d4-format) : The D4 Quantitative Data Format
 - [gfa2bin](https://github.com/MoinSebi/gfa2bin) : Convert various graph-related data to PLINK file. In addition, we offer multiple commands for filtering or modifying the generated PLINK files.
