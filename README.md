@@ -60,11 +60,13 @@ A collection of genomics software tools written in Rust
 #### format
 - [atlas](https://github.com/stjude-rust-labs/atlas) : Enables storing, querying, transforming, and visualizing of multidimensional count data.
 - [bigtools](https://github.com/jackh726/bigtools) : A high-performance BigWig and BigBed library in Rust
+- [biotest](https://github.com/natir/biotest) : Generate random test data for bioinformatics
 - [d4tools](https://github.com/38/d4-format) : The D4 Quantitative Data Format
 - [gfa2bin](https://github.com/MoinSebi/gfa2bin) : Convert various graph-related data to PLINK file. In addition, we offer multiple commands for filtering or modifying the generated PLINK files.
 - [gia](https://github.com/noamteyssier/gia) : gia: Genomic Interval Arithmetic
 - [granges](https://github.com/vsbuffalo/granges) : A Rust library and command line tool for working with genomic ranges and their data.
 - [intspan](https://github.com/wang-q/intspan) : Command line tools for IntSpan related bioinformatics operations
+- [nuc2bit](https://github.com/natir/nuc2bit) : A rust crate that provides methods for rapidly encoding and decoding nucleotides in 2-bit representation.
 - [recmap](https://github.com/vsbuffalo/recmap) : A command line tool and Rust library for working with recombination maps.
 - [thirdkind](https://github.com/simonpenel/thirdkind) : Drawing reconciled phylogenetic trees allowing 1, 2 or 3 reconcillation levels
 
@@ -78,6 +80,7 @@ A collection of genomics software tools written in Rust
 
 - [Autocycler](https://github.com/rrwick/Autocycler) : A tool for generating consensus long-read assemblies for bacterial genomes
 - [chopper](https://github.com/wdecoster/chopper) : Rust implementation of [NanoFilt](https://github.com/wdecoster/nanofilt)+[NanoLyse](https://github.com/wdecoster/nanolyse), both originally written in Python. This tool, intended for long read sequencing such as PacBio or ONT, filters and trims a fastq file.
+- [fpa](https://github.com/natir/fpa) : Filter of Pairwise Alignement
 - [herro](https://github.com/lbcb-sci/herro) : HERRO is a highly-accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1 or R9.4.1 reads (read length of >= 10 kbps is recommended).
 - [HiPhase](https://github.com/PacificBiosciences/HiPhase) : Small variant, structural variant, and short tandem repeat phasing tool for PacBio HiFi reads
 - [longshot](https://github.com/pjedge/longshot) : diploid SNV caller for error-prone reads
@@ -87,6 +90,9 @@ A collection of genomics software tools written in Rust
 - [nanoq](https://github.com/esteinig/nanoq) : Minimal but speedy quality control for nanopore reads in Rust 🐻
 - [smrest](https://github.com/jts/smrest) : Tumour-only somatic mutation calling using long reads
 - [trgt](https://github.com/PacificBiosciences/trgt) : Tandem repeat genotyping and visualization from PacBio HiFi data
+- [yacrd](https://github.com/natir/yacrd) : Yet Another Chimeric Read Detector
+
+
 
 ##### metagenomics
 
