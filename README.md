@@ -155,3 +155,9 @@ A collection of genomics software tools written in Rust
 - [ibu](https://github.com/noamteyssier/ibu) : a rust library for high throughput binary encoding of genomic sequences
 - [scidataflow](https://github.com/vsbuffalo/scidataflow): Command line scientific data management tool
 - [sufr](https://github.com/TravisWheelerLab/sufr) : Parallel Construction of Suffix Arrays in Rust
+
+
+
+
+## Starchart
+<img src="https://starchart.cc/sharkLoc/rust-in-bioinformatics.svg" alt="Stargazers over time" style="max-width: 100%">
