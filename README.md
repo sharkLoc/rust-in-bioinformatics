@@ -43,7 +43,6 @@ A collection of genomics software tools written in Rust
 - [skc](https://github.com/mbhall88/skc) : Shared k-mer content between two genomes
 - [sketchy](https://github.com/esteinig/sketchy) : Genomic neighbor typing of bacterial pathogens using MinHash 🐀
 - [tidk](https://github.com/tolkit/telomeric-identifier) : Identify and find telomeres, or telomeric repeats in a genome.
-- [tidk](https://github.com/tolkit/telomeric-identifier) : Identify and find telomeres, or telomeric repeats in a genome.
 - [xgt](https://github.com/Ebedthan/xgt) : Efficient and fast querying and parsing of GTDB's data
 
 ##### fastq
