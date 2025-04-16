@@ -60,6 +60,7 @@ A collection of genomics software tools written in Rust
 - [atlas](https://github.com/stjude-rust-labs/atlas) : Enables storing, querying, transforming, and visualizing of multidimensional count data.
 - [bigtools](https://github.com/jackh726/bigtools) : A high-performance BigWig and BigBed library in Rust
 - [biotest](https://github.com/natir/biotest) : Generate random test data for bioinformatics
+- [bqtools](https://github.com/arcinstitute/bqtools) : A command line utilty for working with BINSEQ files
 - [cigzip](https://github.com/AndreaGuarracino/cigzip) : A tool for compression and decompression of alignment CIGAR strings using tracepoints.
 - [d4tools](https://github.com/38/d4-format) : The D4 Quantitative Data Format
 - [gfa2bin](https://github.com/MoinSebi/gfa2bin) : Convert various graph-related data to PLINK file. In addition, we offer multiple commands for filtering or modifying the generated PLINK files.
