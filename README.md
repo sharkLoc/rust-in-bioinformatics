@@ -152,6 +152,7 @@ A collection of genomics software tools written in Rust
 
 ##### other
 - [biobear](https://github.com/wheretrue/biobear) : Work with bioinformatic files using Arrow, Polars, and/or DuckDB
+- [binseq](https://github.com/ArcInstitute/binseq) : A high efficiency binary format for sequencing data
 - [htsget-rs](https://github.com/umccr/htsget-rs) : A server implementation of the htsget protocol for bioinformatics in Rust
 - [ibu](https://github.com/noamteyssier/ibu) : a rust library for high throughput binary encoding of genomic sequences
 - [scidataflow](https://github.com/vsbuffalo/scidataflow): Command line scientific data management tool
