@@ -29,6 +29,7 @@ A collection of genomics software tools written in Rust
 
 ##### dna
 
+- [biotools](https://github.com/jimrybarski/biotools) : Command line bioinformatics functions
 - [fakit](https://github.com/sharkLoc/fakit) : fakit: a simple program for fasta file manipulation
 - [filterx](https://github.com/dwpeng/filterx) : process any file in tabular format. Fasta/fastq/GTF/GFF/VCF/SAM/BED
 - [fq](https://github.com/stjude-rust-labs/fq) : Command line utility for manipulating Illumina-generated FASTQ files.
