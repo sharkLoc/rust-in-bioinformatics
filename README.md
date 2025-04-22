@@ -156,6 +156,11 @@ A collection of genomics software tools written in Rust
 - [vcf2parquet](https://github.com/natir/vcf2parquet) : Convert vcf in parquet
 - [vcfexpress](https://github.com/brentp/vcfexpress) : expressions on VCFs
 
+
+##### Gui
+
+- [plascad](https://github.com/David-OConnor/plascad) : Design software for plasmid (vector) and primer creation and validation. Edit plasmids, perform PCR-based cloning, digest and ligate DNA fragments, and display details about expressed proteins. Integrates with online resources like NCBI and PDB.
+
 ##### other
 - [biobear](https://github.com/wheretrue/biobear) : Work with bioinformatic files using Arrow, Polars, and/or DuckDB
 - [binseq](https://github.com/ArcInstitute/binseq) : A high efficiency binary format for sequencing data
