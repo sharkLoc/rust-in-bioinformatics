@@ -59,6 +59,7 @@ A collection of genomics software tools written in Rust
 - [grepq](https://github.com/rbfinch/grepq): quickly filter fastq files by matching sequences to a set of regex patterns
 - [guide-counter](https://github.com/fulcrumgenomics/guide-counter) : A better, faster way to count guides in CRISPR screens.
 - [rasusa](https://github.com/mbhall88/rasusa) : Randomly subsample sequencing reads
+- [SeqSizzle](https://github.com/ChangqingW/SeqSizzle) : SeqSizzle is a pager for viewing FASTQ files with fuzzy matching, allowing different adaptors to be colored differently.
 
 #### format
 - [atlas](https://github.com/stjude-rust-labs/atlas) : Enables storing, querying, transforming, and visualizing of multidimensional count data.
