@@ -78,6 +78,7 @@ A collection of genomics software tools written in Rust
 - [recmap](https://github.com/vsbuffalo/recmap) : A command line tool and Rust library for working with recombination maps.
 - [transanno](https://github.com/informationsea/transanno) : accurate LiftOver tool for new genome assemblies
 - [thirdkind](https://github.com/simonpenel/thirdkind) : Drawing reconciled phylogenetic trees allowing 1, 2 or 3 reconcillation levels
+- [xsra](https://github.com/ArcInstitute/xsra) : An efficient CLI to extract sequences from the SRA
 
 
 ##### gff3
