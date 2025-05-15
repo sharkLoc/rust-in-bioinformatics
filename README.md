@@ -51,6 +51,7 @@ A collection of genomics software tools written in Rust
 
 ##### fastq
 
+- [deacon](https://github.com/bede/deacon) : Fast (host) DNA sequence filtering 
 - [fasten](https://github.com/lskatz/fasten) : 👷 Fasten toolkit, for streaming operations on fastq files
 - [faster](https://github.com/angelovangel/faster) :  A (very) fast program for getting statistics about a fastq file, the way I need them, written in Rust
 - [fqgrep](https://github.com/fulcrumgenomics/fqgrep) : Grep for FASTQ files
