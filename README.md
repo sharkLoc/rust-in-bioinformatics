@@ -97,6 +97,7 @@ A collection of genomics software tools written in Rust
 - [HiPhase](https://github.com/PacificBiosciences/HiPhase) : Small variant, structural variant, and short tandem repeat phasing tool for PacBio HiFi reads
 - [longshot](https://github.com/pjedge/longshot) : diploid SNV caller for error-prone reads
 - [lrge](https://github.com/mbhall88/lrge) : Genome size estimation from long read overlaps
+- [myloasm](https://github.com/bluenote-1577/myloasm) : A new high-resolution long-read metagenome assembler for even noisy reads
 - [Polypolish](https://github.com/rrwick/Polypolish) : a short-read polishing tool for long-read assemblies
 - [nextpolish2](https://github.com/Nextomics/NextPolish2) : Repeat-aware polishing genomes assembled using HiFi long reads
 - [nanoq](https://github.com/esteinig/nanoq) : Minimal but speedy quality control for nanopore reads in Rust 🐻
