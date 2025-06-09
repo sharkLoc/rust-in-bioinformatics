@@ -21,6 +21,7 @@ A collection of genomics software tools written in Rust
 - [csvlens](https://github.com/YS-L/csvlens) : csvlens is a command line CSV file viewer. It is like less but made for CSV.
 - [madato](https://github.com/inosion/madato) : Markdown Cmd Line, Rust and JS library for Excel to Markdown Tables
 - [qsv](https://github.com/dathere/qsv) : Blazing-fast Data-Wrangling toolkit
+- [rsv](https://github.com/ribbondz/rsv) : A command-line tool written in Rust for analyzing CSV, TXT, and Excel files.
 - [tabiew](https://github.com/shshemi/tabiew) : A lightweight TUI app to view and query CSV files
 - [tv](https://github.com/alexhallam/tv) : 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [xan](https://github.com/medialab/xan) : The CSV magician
