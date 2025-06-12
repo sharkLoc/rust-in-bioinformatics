@@ -31,6 +31,7 @@ A collection of genomics software tools written in Rust
 ##### dna
 
 - [biotools](https://github.com/jimrybarski/biotools) : Command line bioinformatics functions
+- [darwin](https://github.com/Ebedthan/darwin) : Create (rapid) neighbor-joining tree from sequences using mash distance
 - [fakit](https://github.com/sharkLoc/fakit) : fakit: a simple program for fasta file manipulation
 - [filterx](https://github.com/dwpeng/filterx) : process any file in tabular format. Fasta/fastq/GTF/GFF/VCF/SAM/BED
 - [fq](https://github.com/stjude-rust-labs/fq) : Command line utility for manipulating Illumina-generated FASTQ files.
@@ -111,6 +112,7 @@ A collection of genomics software tools written in Rust
 ##### metagenomics
 
 - [coverm](https://github.com/wwood/CoverM) : Read coverage calculator for metagenomics
+- [hyperex](https://github.com/Ebedthan/hyperex) : Hypervariable region primer-based extractor for 16S rRNA and other SSU/LSU sequences.
 - [kun_peng](https://github.com/eric9n/Kun-peng) : Kun-peng: an ultra-fast, low-memory footprint and accurate taxonomy classifier for all
 - [kmertools](https://github.com/anuradhawick/kmertools) : kmer based feature extraction tool for bioinformatics, metagenomics, AI/ML and more
 - [kmerutils](https://github.com/jean-pierreBoth/kmerutils) : Kmer generating, counting hashing and related
