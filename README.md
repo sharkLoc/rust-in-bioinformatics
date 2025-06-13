@@ -117,6 +117,7 @@ A collection of genomics software tools written in Rust
 - [kun_peng](https://github.com/eric9n/Kun-peng) : Kun-peng: an ultra-fast, low-memory footprint and accurate taxonomy classifier for all
 - [kmertools](https://github.com/anuradhawick/kmertools) : kmer based feature extraction tool for bioinformatics, metagenomics, AI/ML and more
 - [kmerutils](https://github.com/jean-pierreBoth/kmerutils) : Kmer generating, counting hashing and related
+- [Lorikeet](https://github.com/rhysnewell/Lorikeet) : Strain resolver for metagenomics
 - [nohuman](https://github.com/mbhall88/nohuman) : Remove human reads from a sequencing run
 - [skani](https://github.com/bluenote-1577/skani) : Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs.
 - [sourmash](https://github.com/sourmash-bio/sourmash) : Quickly search, compare, and analyze genomic and metagenomic data sets.
