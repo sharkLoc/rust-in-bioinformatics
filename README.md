@@ -62,6 +62,7 @@ A collection of genomics software tools written in Rust
 - [fqtk](https://github.com/fulcrumgenomics/fqtk) : Fast FASTQ sample demultiplexing in Rust.
 - [grepq](https://github.com/rbfinch/grepq): quickly filter fastq files by matching sequences to a set of regex patterns
 - [guide-counter](https://github.com/fulcrumgenomics/guide-counter) : A better, faster way to count guides in CRISPR screens.
+- [K2Rmini](https://github.com/Malfoy/K2Rmini) : K2Rmini (or K-mer to Reads mini) is a tool to filter the reads contained in a FASTA/Q file based on a set of k-mers of interest.
 - [kractor](https://github.com/sam-sims/kractor) : Rapidly extract reads from a FASTQ file based on taxonomic classification via Kraken2.
 - [rasusa](https://github.com/mbhall88/rasusa) : Randomly subsample sequencing reads
 - [SeqSizzle](https://github.com/ChangqingW/SeqSizzle) : SeqSizzle is a pager for viewing FASTQ files with fuzzy matching, allowing different adaptors to be colored differently.
