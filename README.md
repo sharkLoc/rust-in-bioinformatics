@@ -99,6 +99,7 @@ A collection of genomics software tools written in Rust
 - [fpa](https://github.com/natir/fpa) : Filter of Pairwise Alignement
 - [herro](https://github.com/lbcb-sci/herro) : HERRO is a highly-accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1 or R9.4.1 reads (read length of >= 10 kbps is recommended).
 - [HiPhase](https://github.com/PacificBiosciences/HiPhase) : Small variant, structural variant, and short tandem repeat phasing tool for PacBio HiFi reads
+- [isONclust3](https://github.com/aljpetri/isONclust3) : De novo clustering of long transcript reads into genes
 - [longshot](https://github.com/pjedge/longshot) : diploid SNV caller for error-prone reads
 - [lrge](https://github.com/mbhall88/lrge) : Genome size estimation from long read overlaps
 - [myloasm](https://github.com/bluenote-1577/myloasm) : A new high-resolution long-read metagenome assembler for even noisy reads
