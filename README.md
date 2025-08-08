@@ -174,6 +174,7 @@ A collection of genomics software tools written in Rust
 - [mehari](https://github.com/varfish-org/mehari): VEP-like tool for sequence ontology and HGVS annotation of VCF files
 - [vcf2parquet](https://github.com/natir/vcf2parquet) : Convert vcf in parquet
 - [vcfexpress](https://github.com/brentp/vcfexpress) : expressions on VCFs
+- [vcf-reformatter](https://github.com/flalom/vcf-reformatter) : 🧬 High-performance VCF file parser and reformatter with VEP annotation support. Converts complex VCF files to analyzable TSV format with intelligent transcript handling.
 
 
 ##### Gui
