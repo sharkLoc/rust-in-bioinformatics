@@ -45,6 +45,7 @@ A collection of genomics software tools written in Rust
 - [poasta](https://github.com/broadinstitute/poasta) : Fast and exact gap-affine partial order alignment
 - [psdm](https://github.com/mbhall88/psdm) : Compute a pairwise SNP distance matrix from one or two alignment(s)
 - [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools) : A set of command line utilities based on Rust-Bio.
+- [sigalign](https://github.com/baku4/sigalign) : A Similarity-Guided Alignment Algorithm
 - [ska](https://github.com/bacpop/ska.rust) : Split k-mer analysis – version 2
 - [skc](https://github.com/mbhall88/skc) : Shared k-mer content between two genomes
 - [sketchy](https://github.com/esteinig/sketchy) : Genomic neighbor typing of bacterial pathogens using MinHash 🐀
