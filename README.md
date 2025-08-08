@@ -166,6 +166,8 @@ A collection of genomics software tools written in Rust
 ##### slurm
 
 - [ssubmit](https://github.com/mbhall88/ssubmit) : Submit slurm sbatch jobs without the need to create a script
+- [wdl](https://github.com/stjude-rust-labs/wdl) : Rust crates for working with Workflow Description Language (WDL) documents.
+
 
 ##### vcf
 
@@ -184,6 +186,7 @@ A collection of genomics software tools written in Rust
 ##### other
 - [biobear](https://github.com/wheretrue/biobear) : Work with bioinformatic files using Arrow, Polars, and/or DuckDB
 - [binseq](https://github.com/ArcInstitute/binseq) : A high efficiency binary format for sequencing data
+- [exon](https://github.com/wheretrue/exon) : Exon is an OLAP query engine specifically for biology and life science applications.
 - [ggetrs](https://github.com/noamteyssier/ggetrs) : Efficient querying of biological databases
 - [htsget-rs](https://github.com/umccr/htsget-rs) : A server implementation of the htsget protocol for bioinformatics in Rust
 - [ibu](https://github.com/noamteyssier/ibu) : a rust library for high throughput binary encoding of genomic sequences
