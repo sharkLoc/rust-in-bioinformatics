@@ -160,6 +160,7 @@ A collection of genomics software tools written in Rust
 - [adview](https://github.com/JianYang-Lab/adview) : Adata Viewer: Head/Less/Shape h5ad file in terminal
 - [alevin-fry](https://github.com/COMBINE-lab/alevin-fry) : 🐟 🔬🦀 alevin-fry is an efficient and flexible tool for processing single-cell sequencing data, currently focused on single-cell transcriptomics and feature barcoding.
 - [cellranger](https://github.com/10XGenomics/cellranger) : 10x Genomics Single Cell Analysis
+- [fragtk](https://github.com/stuart-lab/fragtk) : fragment file toolkit
 - [precellar](https://github.com/regulatory-genomics/precellar) : Single-cell genomics preprocessing package
 - [proseg](https://github.com/dcjones/proseg) : Probabilistic cell segmentation for in situ spatial transcriptomics
 - [SnapATAC2](https://github.com/kaizhang/SnapATAC2) : Single-cell epigenomics analysis tools
