@@ -164,6 +164,8 @@ A collection of genomics software tools written in Rust
 - [precellar](https://github.com/regulatory-genomics/precellar) : Single-cell genomics preprocessing package
 - [proseg](https://github.com/dcjones/proseg) : Probabilistic cell segmentation for in situ spatial transcriptomics
 - [SnapATAC2](https://github.com/kaizhang/SnapATAC2) : Single-cell epigenomics analysis tools
+- [spars](https://github.com/stuart-lab/spars) : Disk-based sparse matrix stats
+
 
 ##### slurm
 
