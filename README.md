@@ -141,6 +141,10 @@ A collection of genomics software tools written in Rust
 - [unicore](https://github.com/steineggerlab/unicore) : Universal and efficient core gene phylogeny with Foldseek and ProstT5 
 - [segul](https://github.com/hhandika/segul) : An ultrafast and memory efficient tool for phylogenomics
 
+##### methylation
+- [metheor](https://github.com/dohlee/metheor) : ☄️ Ultrafast DNA methylation heterogeneity calculation from bisulfite alignments (Lee et al., PLOS Computational Biology. 2023)
+
+
 ##### proteomics
 
 - [align-cli](https://github.com/snijderlab/align-cli) : A CLI for pairwise alignment of sequences, using both normal and mass based alignment.
