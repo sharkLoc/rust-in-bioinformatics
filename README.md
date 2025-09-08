@@ -116,6 +116,7 @@ A collection of genomics software tools written in Rust
 ##### metagenomics
 
 - [coverm](https://github.com/wwood/CoverM) : Read coverage calculator for metagenomics
+- [fairy](https://github.com/bluenote-1577/fairy) : alignment-free coverage calculation for metagenomic binning >100 times faster
 - [floria](https://github.com/bluenote-1577/floria) : Strain-level haplotyping for metagenomes with short or long-reads.
 - [galah](https://github.com/wwood/galah) : More scalable dereplication for metagenome assembled genomes
 - [hyperex](https://github.com/Ebedthan/hyperex) : Hypervariable region primer-based extractor for 16S rRNA and other SSU/LSU sequences.
