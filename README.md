@@ -175,6 +175,7 @@ A collection of genomics software tools written in Rust
 
 ##### slurm
 
+- [slurmer](https://github.com/wjwei-handsome/Slurmer) : A TUI application for monitoring and managing SLURM jobs.
 - [ssubmit](https://github.com/mbhall88/ssubmit) : Submit slurm sbatch jobs without the need to create a script
 - [wdl](https://github.com/stjude-rust-labs/wdl) : Rust crates for working with Workflow Description Language (WDL) documents.
 
