@@ -91,6 +91,7 @@ A collection of genomics software tools written in Rust
 
 - [atg](https://github.com/anergictcell/atg) : A Rust library and CLI tool to handle genomic transcripts   
 - [gffkit](https://github.com/sharkloc/gffkit) : a simple program for gff3 file manipulation
+- [GFFx](https://github.com/Baohua-Chen/GFFx) : A Rust-Based suite of utilities for ultra-fast genomic feature extraction
 
 ##### longreads
 
