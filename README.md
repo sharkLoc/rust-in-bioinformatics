@@ -44,6 +44,7 @@ A collection of genomics software tools written in Rust
 - [palindrome-finder](https://github.com/brianli314/palindrome-finder) : A bioinformatics tool written in Rust to find palindromic sequences in DNA
 - [poasta](https://github.com/broadinstitute/poasta) : Fast and exact gap-affine partial order alignment
 - [psdm](https://github.com/mbhall88/psdm) : Compute a pairwise SNP distance matrix from one or two alignment(s)
+- [raxtax](https://github.com/noahares/raxtax) : k-mer-based non-Bayesian Taxonomic Classifier
 - [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools) : A set of command line utilities based on Rust-Bio.
 - [sigalign](https://github.com/baku4/sigalign) : A Similarity-Guided Alignment Algorithm
 - [ska](https://github.com/bacpop/ska.rust) : Split k-mer analysis – version 2
