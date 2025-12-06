@@ -99,6 +99,7 @@ A collection of genomics software tools written in Rust
 - [Autocycler](https://github.com/rrwick/Autocycler) : A tool for generating consensus long-read assemblies for bacterial genomes
 - [barbell](https://github.com/rickbeeloo/barbell) : Extremely fast and accurate Nanopore demultiplexing
 - [chopper](https://github.com/wdecoster/chopper) : Rust implementation of [NanoFilt](https://github.com/wdecoster/nanofilt)+[NanoLyse](https://github.com/wdecoster/nanolyse), both originally written in Python. This tool, intended for long read sequencing such as PacBio or ONT, filters and trims a fastq file.
+- [CycSim](https://github.com/BioEarthDigital/CycSim) : A context-based long-read simulator
 - [DeepChopper](https://github.com/ylab-hi/DeepChopper) : Language models identify chimeric artificial reads in NanoPore direct-RNA sequencing data.
 - [fpa](https://github.com/natir/fpa) : Filter of Pairwise Alignement
 - [herro](https://github.com/lbcb-sci/herro) : HERRO is a highly-accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1 or R9.4.1 reads (read length of >= 10 kbps is recommended).
