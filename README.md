@@ -125,6 +125,7 @@ A collection of genomics software tools written in Rust
 - [floria](https://github.com/bluenote-1577/floria) : Strain-level haplotyping for metagenomes with short or long-reads.
 - [galah](https://github.com/wwood/galah) : More scalable dereplication for metagenome assembled genomes
 - [hyperex](https://github.com/Ebedthan/hyperex) : Hypervariable region primer-based extractor for 16S rRNA and other SSU/LSU sequences.
+- [kamino](https://github.com/rderelle/kamino) : Build phylogenomic datasets in seconds.
 - [kun_peng](https://github.com/eric9n/Kun-peng) : Kun-peng: an ultra-fast, low-memory footprint and accurate taxonomy classifier for all
 - [kmertools](https://github.com/anuradhawick/kmertools) : kmer based feature extraction tool for bioinformatics, metagenomics, AI/ML and more
 - [kmerutils](https://github.com/jean-pierreBoth/kmerutils) : Kmer generating, counting hashing and related
