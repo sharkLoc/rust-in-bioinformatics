@@ -121,6 +121,7 @@ A collection of genomics software tools written in Rust
 
 - [bronko](https://github.com/treangenlab/bronko) : Ultra-rapid detection of viral variants directly from sequencing data
 - [coverm](https://github.com/wwood/CoverM) : Read coverage calculator for metagenomics
+- [devider](https://github.com/bluenote-1577/devider) : Dividing heterogeneous long-read sequencing into groups with de Bruijn graphs
 - [fairy](https://github.com/bluenote-1577/fairy) : alignment-free coverage calculation for metagenomic binning >100 times faster
 - [floria](https://github.com/bluenote-1577/floria) : Strain-level haplotyping for metagenomes with short or long-reads.
 - [galah](https://github.com/wwood/galah) : More scalable dereplication for metagenome assembled genomes
@@ -207,6 +208,7 @@ A collection of genomics software tools written in Rust
 - [ggetrs](https://github.com/noamteyssier/ggetrs) : Efficient querying of biological databases
 - [htsget-rs](https://github.com/umccr/htsget-rs) : A server implementation of the htsget protocol for bioinformatics in Rust
 - [ibu](https://github.com/noamteyssier/ibu) : a rust library for high throughput binary encoding of genomic sequences
+- [rebgzf](https://github.com/nh13/rebgzf) : Efficient gzip to BGZF transcoder using half-decompression (2-4x faster than decompress+recompress)
 - [scidataflow](https://github.com/vsbuffalo/scidataflow): Command line scientific data management tool
 - [sufr](https://github.com/TravisWheelerLab/sufr) : Parallel Construction of Suffix Arrays in Rust
 
