@@ -69,6 +69,7 @@ A collection of genomics software tools written in Rust
 - [rasusa](https://github.com/mbhall88/rasusa) : Randomly subsample sequencing reads
 - [SeqSizzle](https://github.com/ChangqingW/SeqSizzle) : SeqSizzle is a pager for viewing FASTQ files with fuzzy matching, allowing different adaptors to be colored differently.
 - [sabreur](https://github.com/ebedthan/sabreur) : fast, reliable and handy demultiplexing tool for fastx files
+- [seqtools](https://github.com/markschl/seqtool) : Fast and flexible tool for reading, modifying and writing biological sequences
 
 #### format
 - [atlas](https://github.com/stjude-rust-labs/atlas) : Enables storing, querying, transforming, and visualizing of multidimensional count data.
