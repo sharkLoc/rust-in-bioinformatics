@@ -99,6 +99,7 @@ A collection of genomics software tools written in Rust
 
 - [Autocycler](https://github.com/rrwick/Autocycler) : A tool for generating consensus long-read assemblies for bacterial genomes
 - [barbell](https://github.com/rickbeeloo/barbell) : Extremely fast and accurate Nanopore demultiplexing
+- [breakinator](https://github.com/jheinz27/breakinator) : Tool to flag foldback and chimeric artifacts in long-read sequence alignment files
 - [chopper](https://github.com/wdecoster/chopper) : Rust implementation of [NanoFilt](https://github.com/wdecoster/nanofilt)+[NanoLyse](https://github.com/wdecoster/nanolyse), both originally written in Python. This tool, intended for long read sequencing such as PacBio or ONT, filters and trims a fastq file.
 - [CycSim](https://github.com/BioEarthDigital/CycSim) : A context-based long-read simulator
 - [DeepChopper](https://github.com/ylab-hi/DeepChopper) : Language models identify chimeric artificial reads in NanoPore direct-RNA sequencing data.
@@ -110,8 +111,9 @@ A collection of genomics software tools written in Rust
 - [lrge](https://github.com/mbhall88/lrge) : Genome size estimation from long read overlaps
 - [myloasm](https://github.com/bluenote-1577/myloasm) : A new high-resolution long-read metagenome assembler for even noisy reads
 - [Polypolish](https://github.com/rrwick/Polypolish) : a short-read polishing tool for long-read assemblies
-- [nextpolish2](https://github.com/Nextomics/NextPolish2) : Repeat-aware polishing genomes assembled using HiFi long reads
+- [nanocount](https://github.com/noamteyssier/nanocount) : A dual-guide protospacer counter for long-read nanopore data
 - [nanoq](https://github.com/esteinig/nanoq) : Minimal but speedy quality control for nanopore reads in Rust 🐻
+- [nextpolish2](https://github.com/Nextomics/NextPolish2) : Repeat-aware polishing genomes assembled using HiFi long reads
 - [smrest](https://github.com/jts/smrest) : Tumour-only somatic mutation calling using long reads
 - [trgt](https://github.com/PacificBiosciences/trgt) : Tandem repeat genotyping and visualization from PacBio HiFi data
 - [yacrd](https://github.com/natir/yacrd) : Yet Another Chimeric Read Detector
@@ -146,6 +148,7 @@ A collection of genomics software tools written in Rust
 
 ##### phylogenomics
 
+- [kamino](https://github.com/rderelle/kamino) : Build phylogenomic datasets in seconds. 
 - [nextclade](https://github.com/nextstrain/nextclade) : Viral genome alignment, mutation calling, clade assignment, quality checks and phylogenetic placement
 - [nwr](https://github.com/wang-q/nwr) : nwr is a command line tool for working with NCBI taxonomy, Newick files and assembly reports
 - [unicore](https://github.com/steineggerlab/unicore) : Universal and efficient core gene phylogeny with Foldseek and ProstT5 
