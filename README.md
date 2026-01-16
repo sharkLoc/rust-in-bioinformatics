@@ -205,6 +205,9 @@ A collection of genomics software tools written in Rust
 
 - [plascad](https://github.com/David-OConnor/plascad) : Design software for plasmid (vector) and primer creation and validation. Edit plasmids, perform PCR-based cloning, digest and ligate DNA fragments, and display details about expressed proteins. Integrates with online resources like NCBI and PDB.
 
+##### TUI
+- [seqtui](https://github.com/ranwez-search/SeqTUI) : A fast terminal-based viewer and command-line toolkit for molecular sequences (DNA, AA). View, translate, convert (to FASTA), and combine sequences aligned or not — all from the terminal.
+
 ##### other
 - [biobear](https://github.com/wheretrue/biobear) : Work with bioinformatic files using Arrow, Polars, and/or DuckDB
 - [binseq](https://github.com/ArcInstitute/binseq) : A high efficiency binary format for sequencing data
