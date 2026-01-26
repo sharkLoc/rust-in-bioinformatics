@@ -62,6 +62,7 @@ A collection of genomics software tools written in Rust
 - [fqgrep](https://github.com/fulcrumgenomics/fqgrep) : Grep for FASTQ files
 - [fqkit](https://github.com/sharkLoc/fqkit) : 🦀 Fqkit: A simple and cross-platform program for fastq file manipulation  
 - [fqtk](https://github.com/fulcrumgenomics/fqtk) : Fast FASTQ sample demultiplexing in Rust.
+- [fgumi](https://github.com/fulcrumgenomics/fgumi) : High-performance UMI tools for NGS data analysis
 - [grepq](https://github.com/rbfinch/grepq): quickly filter fastq files by matching sequences to a set of regex patterns
 - [guide-counter](https://github.com/fulcrumgenomics/guide-counter) : A better, faster way to count guides in CRISPR screens.
 - [K2Rmini](https://github.com/Malfoy/K2Rmini) : K2Rmini (or K-mer to Reads mini) is a tool to filter the reads contained in a FASTA/Q file based on a set of k-mers of interest.
