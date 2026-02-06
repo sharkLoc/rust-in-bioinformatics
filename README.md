@@ -35,6 +35,7 @@ A collection of genomics software tools written in Rust
 - [fakit](https://github.com/sharkLoc/fakit) : fakit: a simple program for fasta file manipulation
 - [filterx](https://github.com/dwpeng/filterx) : process any file in tabular format. Fasta/fastq/GTF/GFF/VCF/SAM/BED
 - [fq](https://github.com/stjude-rust-labs/fq) : Command line utility for manipulating Illumina-generated FASTQ files.
+- [ggcat](https://github.com/algbio/ggcat) : Compacted and colored de Bruijn graph construction and querying
 - [gsearch](https://github.com/jean-pierreboth/gsearch) : Approximate nearest neighbour search for microbial genomes based on hash metric
 - [Hyper-Gen](https://github.com/wh-xu/Hyper-Gen) : HyGen: Compact and Efficient Genome Sketching using Hyperdimensional Vectors
 - [kanpig](https://github.com/ACEnglish/kanpig) : Kmer Analysis of Pileups for Genotyping
@@ -50,8 +51,10 @@ A collection of genomics software tools written in Rust
 - [ska](https://github.com/bacpop/ska.rust) : Split k-mer analysis – version 2
 - [skc](https://github.com/mbhall88/skc) : Shared k-mer content between two genomes
 - [sketchy](https://github.com/esteinig/sketchy) : Genomic neighbor typing of bacterial pathogens using MinHash 🐀
+- [tgv](https://github.com/zeqianli/tgv) : Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - [tidk](https://github.com/tolkit/telomeric-identifier) : Identify and find telomeres, or telomeric repeats in a genome.
 - [transanno](https://github.com/informationsea/transanno) : accurate LiftOver tool for new genome assemblies
+- [wgatools](https://github.com/wjwei-handsome/wgatools) : Whole Genome Alignment Tools
 - [xgt](https://github.com/Ebedthan/xgt) : Efficient and fast querying and parsing of GTDB's data
 
 ##### fastq
@@ -169,6 +172,7 @@ A collection of genomics software tools written in Rust
 
 ##### rna
 - [oarfish](https://github.com/COMBINE-lab/oarfish) : long read RNA-seq quantification
+- [piscem](https://github.com/COMBINE-lab/piscem) : Rust wrapper for the next generation (still currently in C++)
 - [rnapkin](https://github.com/ukmrs/rnapkin) : drawing RNA secondary structure with style; instantly
 - [R2Dtool](https://github.com/comprna/R2Dtool) : R2Dtool is a set of genomics utilities for handling, integrating, and viualising isoform-mapped RNA feature data.
 - [squab](https://github.com/zaeleus/squab) : Alignment-based gene expression quantification
@@ -181,6 +185,7 @@ A collection of genomics software tools written in Rust
 - [fragtk](https://github.com/stuart-lab/fragtk) : fragment file toolkit
 - [precellar](https://github.com/regulatory-genomics/precellar) : Single-cell genomics preprocessing package
 - [proseg](https://github.com/dcjones/proseg) : Probabilistic cell segmentation for in situ spatial transcriptomics
+- [simpleaf](https://github.com/COMBINE-lab/simpleaf) : A rust framework to make using alevin-fry even simpler
 - [SnapATAC2](https://github.com/kaizhang/SnapATAC2) : Single-cell epigenomics analysis tools
 - [spars](https://github.com/stuart-lab/spars) : Disk-based sparse matrix stats
 
