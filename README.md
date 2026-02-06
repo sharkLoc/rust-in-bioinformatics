@@ -2,7 +2,26 @@
 
 A collection of genomics software tools written in Rust
 
+## Development & Testing
 
+This repository includes utilities for maintaining the tool list and generating robust test data.
+
+### Scripts
+The `scripts/` directory contains tools for automation:
+- `update_readmes.py`: Updates the main README based on individual tool markdown files.
+- `generate_test_data.py`: Creates synthetic biological data (FASTA, FASTQ, BAM, VCF, etc.) for testing.
+- `fetch_public_data.sh`: Downloads lightweight public datasets (e.g., SARS-CoV-2 genome, PhiX).
+
+### Test Data
+A comprehensive suite of test data is available in `test_data/`, organized by category (`dna`, `fastq`, `bam`, `vcf`, `metagenomics`, `rna`, etc.). This includes:
+- **Synthetic Data**: Randomly generated sequences, alignments, and tables for edge-case testing.
+- **Real Data**: Small, lightweight subsets of real biological data (e.g., viral genomes, PDB structures).
+
+To generate or update the test data, run:
+```bash
+python3 scripts/generate_test_data.py
+bash scripts/fetch_public_data.sh
+```
 
 ### index section
 
