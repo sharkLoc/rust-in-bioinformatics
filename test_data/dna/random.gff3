@@ -1,0 +1,21 @@
+##gff-version 3
+chr1	synthetic	mRNA	1824	2720	.	+	.	ID=feat_1;Parent=gene_2
+chr1	synthetic	CDS	3812	4276	.	+	.	ID=feat_2;Parent=gene_1
+chr1	synthetic	mRNA	2747	3089	.	+	.	ID=feat_3;Parent=gene_4
+chr3	synthetic	gene	373	1311	.	+	.	ID=feat_4;Parent=gene_2
+chr3	synthetic	mRNA	2125	3632	.	+	.	ID=feat_5;Parent=gene_4
+chr2	synthetic	gene	2156	2805	.	+	.	ID=feat_6;Parent=gene_2
+chr2	synthetic	exon	4241	5040	.	+	.	ID=feat_7;Parent=gene_4
+chr3	synthetic	exon	4442	5561	.	-	.	ID=feat_8;Parent=gene_3
+chr2	synthetic	exon	3688	5083	.	+	.	ID=feat_9;Parent=gene_5
+chr2	synthetic	gene	1536	2141	.	-	.	ID=feat_10;Parent=gene_1
+chr2	synthetic	gene	61	757	.	+	.	ID=feat_11;Parent=gene_1
+chr2	synthetic	gene	3067	4387	.	+	.	ID=feat_12;Parent=gene_5
+chr1	synthetic	gene	4275	5408	.	-	.	ID=feat_13;Parent=gene_4
+chr2	synthetic	CDS	1807	2472	.	-	.	ID=feat_14;Parent=gene_1
+chr2	synthetic	gene	2146	2520	.	+	.	ID=feat_15;Parent=gene_4
+chr2	synthetic	exon	3829	4560	.	+	.	ID=feat_16;Parent=gene_4
+chr3	synthetic	CDS	1074	1987	.	+	.	ID=feat_17;Parent=gene_2
+chr2	synthetic	mRNA	4672	4854	.	-	.	ID=feat_18;Parent=gene_3
+chr1	synthetic	gene	2134	3578	.	+	.	ID=feat_19;Parent=gene_1
+chr2	synthetic	exon	2063	3893	.	-	.	ID=feat_20;Parent=gene_3
