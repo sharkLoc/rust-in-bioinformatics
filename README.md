@@ -51,6 +51,7 @@ A collection of genomics software tools written in Rust
 - [ska](https://github.com/bacpop/ska.rust) : Split k-mer analysis – version 2
 - [skc](https://github.com/mbhall88/skc) : Shared k-mer content between two genomes
 - [sketchy](https://github.com/esteinig/sketchy) : Genomic neighbor typing of bacterial pathogens using MinHash 🐀
+- [tgv](https://github.com/zeqianli/tgv) : Explore genomes in the terminal. Light, blazing fast 🚀, vim-motion.
 - [tidk](https://github.com/tolkit/telomeric-identifier) : Identify and find telomeres, or telomeric repeats in a genome.
 - [transanno](https://github.com/informationsea/transanno) : accurate LiftOver tool for new genome assemblies
 - [wgatools](https://github.com/wjwei-handsome/wgatools) : Whole Genome Alignment Tools
