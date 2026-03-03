@@ -191,7 +191,7 @@ bash scripts/fetch_public_data.sh
 
 ##### rna
 - [oarfish](https://github.com/COMBINE-lab/oarfish) : long read RNA-seq quantification
-- [piscem](https://github.com/COMBINE-lab/piscem) : Rust wrapper for the next generation (still currently in C++)
+- [piscem](https://github.com/COMBINE-lab/piscem) : Rust wrapper for the next generation of sequence indexing and mapping
 - [rnapkin](https://github.com/ukmrs/rnapkin) : drawing RNA secondary structure with style; instantly
 - [R2Dtool](https://github.com/comprna/R2Dtool) : R2Dtool is a set of genomics utilities for handling, integrating, and viualising isoform-mapped RNA feature data.
 - [squab](https://github.com/zaeleus/squab) : Alignment-based gene expression quantification
