@@ -164,6 +164,11 @@ bash scripts/fetch_public_data.sh
 - [sylph](https://github.com/bluenote-1577/sylph) : ultrafast genome querying and taxonomic profiling for metagenomic samples by abundance-corrected minhash.
 - [vircov](https://github.com/esteinig/vircov) : Viral genome coverage evaluation for metagenomic diagnostics 🩸
 
+
+##### methylation
+- [metheor](https://github.com/dohlee/metheor) : ☄️ Ultrafast DNA methylation heterogeneity calculation from bisulfite alignments (Lee et al., PLOS Computational Biology. 2023)
+
+
 ##### pangenomics
 
 - [impg](https://github.com/pangenome/impg) : implicit pangenome graph
@@ -177,9 +182,9 @@ bash scripts/fetch_public_data.sh
 - [unicore](https://github.com/steineggerlab/unicore) : Universal and efficient core gene phylogeny with Foldseek and ProstT5 
 - [segul](https://github.com/hhandika/segul) : An ultrafast and memory efficient tool for phylogenomics
 
-##### methylation
-- [metheor](https://github.com/dohlee/metheor) : ☄️ Ultrafast DNA methylation heterogeneity calculation from bisulfite alignments (Lee et al., PLOS Computational Biology. 2023)
+##### plot
 
+-[kuva](https://github.com/Psy-Fer/kuva) : A scientific plotting library in Rust
 
 ##### proteomics
 
