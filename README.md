@@ -38,6 +38,7 @@ bash scripts/fetch_public_data.sh
 
 - [csview](https://github.com/wfxr/csview) : 📠 Pretty and fast csv viewer for cli with cjk/emoji support
 - [csvlens](https://github.com/YS-L/csvlens) : csvlens is a command line CSV file viewer. It is like less but made for CSV.
+- [dadavzrd](https://github.com/datavzrd/datavzrd) : A tool to create visual HTML reports from collections of CSV/TSV tables
 - [madato](https://github.com/inosion/madato) : Markdown Cmd Line, Rust and JS library for Excel to Markdown Tables
 - [qsv](https://github.com/dathere/qsv) : Blazing-fast Data-Wrangling toolkit
 - [rsv](https://github.com/ribbondz/rsv) : A command-line tool written in Rust for analyzing CSV, TXT, and Excel files.
