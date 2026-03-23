@@ -29,6 +29,7 @@ bash scripts/fetch_public_data.sh
 - [alignoth](https://github.com/alignoth/alignoth) : Creating alignment plots from bam files
 - [bamrescue](https://github.com/arkanosis/bamrescue) : Utility to check Binary Sequence Alignment / Map (BAM) files for corruption and repair them
 - [best](https://github.com/google/best) : Bam Error Stats Tool (best): analysis of error types in aligned reads
+- [fg-sra](https://github.com/fulcrumgenomics/fg-sra) : High-performance SRA-to-SAM/BAM converter replacing NCBI sam-dump
 - [modkit](https://github.com/nanoporetech/modkit) : A bioinformatics tool for working with modified bases
 - [mapAD](https://github.com/mpieva/mapAD) : An aDNA aware short-read mapper
 - [perbase](https://github.com/sstadick/perbase) : Per-base per-nucleotide depth analysis
