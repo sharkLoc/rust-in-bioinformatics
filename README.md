@@ -61,6 +61,7 @@ bash scripts/fetch_public_data.sh
 - [Hyper-Gen](https://github.com/wh-xu/Hyper-Gen) : HyGen: Compact and Efficient Genome Sketching using Hyperdimensional Vectors
 - [kanpig](https://github.com/ACEnglish/kanpig) : Kmer Analysis of Pileups for Genotyping
 - [kfc](https://github.com/lrobidou/KFC) : KFC (K-mer Fast Counter) is a fast and space-efficient k-mer counter based on hyper-k-mers.
+- [komplexity](https://github.com/eclarke/komplexity) : A method of assessing sequence complexity based on kmer frequencies
 - [ngs](https://github.com/stjude-rust-labs/ngs) : Command line utility for working with next-generation sequencing files.
 - [nail](https://github.com/TravisWheelerLab/nail) : Nail is an Alignment Inference tooL
 - [palindrome-finder](https://github.com/brianli314/palindrome-finder) : A bioinformatics tool written in Rust to find palindromic sequences in DNA
