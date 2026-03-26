@@ -45,6 +45,7 @@ bash scripts/fetch_public_data.sh
 - [rsv](https://github.com/ribbondz/rsv) : A command-line tool written in Rust for analyzing CSV, TXT, and Excel files.
 - [tabiew](https://github.com/shshemi/tabiew) : A lightweight TUI app to view and query CSV files
 - [tv](https://github.com/alexhallam/tv) : 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+- [tva](https://github.com/wang-q/tva) : tva: Tab-separated Values Assistant
 - [xan](https://github.com/medialab/xan) : The CSV magician
 - [xsv](https://github.com/BurntSushi/xsv) : A fast CSV command line toolkit written in Rust.  
 - [xtab](https://github.com/sharkLoc/xtab) : CSV command line utilities
