@@ -25,6 +25,11 @@ bash scripts/fetch_public_data.sh
 
 ### index section
 
+##### align
+ - [blast-rs](https://github.com/henriksson-lab/blast-rs): A pure-Rust implementation of BLAST (Basic Local Alignment Search Tool). Reads and writes databases created by NCBI , implements the core BLAST algorithm for protein and nucleotide search, and produces output in all standard BLAST formats
+ - [minimap2-pure-rs](https://github.com/henriksson-lab/minimap2-pure-rs) : https://github.com/henriksson-lab/minimap2-pure-rs
+
+
 ##### bam
 - [alignoth](https://github.com/alignoth/alignoth) : Creating alignment plots from bam files
 - [bamrescue](https://github.com/arkanosis/bamrescue) : Utility to check Binary Sequence Alignment / Map (BAM) files for corruption and repair them
