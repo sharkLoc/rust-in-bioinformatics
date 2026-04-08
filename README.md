@@ -87,6 +87,7 @@ bash scripts/fetch_public_data.sh
 
 ##### fastq
 
+- [BioFastq-a](https://github.com/DilaDeniz/BioFastq-a) : High-performance FASTQ/FASTA quality analysis tool written in Rust — HTML reports, adapter trimming, k-mer analysis, N50/N90, duplication estimation, and real-time TUI
 - [deacon](https://github.com/bede/deacon) : Fast (host) DNA sequence filtering 
 - [fasten](https://github.com/lskatz/fasten) : 👷 Fasten toolkit, for streaming operations on fastq files
 - [faster](https://github.com/angelovangel/faster) :  A (very) fast program for getting statistics about a fastq file, the way I need them, written in Rust
