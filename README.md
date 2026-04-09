@@ -156,6 +156,7 @@ bash scripts/fetch_public_data.sh
 ##### metagenomics
 
 - [bronko](https://github.com/treangenlab/bronko) : Ultra-rapid detection of viral variants directly from sequencing data
+- [camitk](https://github.com/dawnmy/camitk) : A command–line toolkit for fast filtering, querying on CAMI taxonomy profiling file
 - [coverm](https://github.com/wwood/CoverM) : Read coverage calculator for metagenomics
 - [devider](https://github.com/bluenote-1577/devider) : Dividing heterogeneous long-read sequencing into groups with de Bruijn graphs
 - [fairy](https://github.com/bluenote-1577/fairy) : alignment-free coverage calculation for metagenomic binning >100 times faster
