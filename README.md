@@ -28,6 +28,7 @@ bash scripts/fetch_public_data.sh
 ##### align
  - [blast-rs](https://github.com/henriksson-lab/blast-rs): A pure-Rust implementation of BLAST (Basic Local Alignment Search Tool). Reads and writes databases created by NCBI , implements the core BLAST algorithm for protein and nucleotide search, and produces output in all standard BLAST formats
  - [minimap2-pure-rs](https://github.com/henriksson-lab/minimap2-pure-rs) : https://github.com/henriksson-lab/minimap2-pure-rs
+ - [poasta](https://github.com/broadinstitute/poasta) : Fast and exact gap-affine partial order alignment
 
 
 ##### bam
@@ -72,7 +73,6 @@ bash scripts/fetch_public_data.sh
 - [ngs](https://github.com/stjude-rust-labs/ngs) : Command line utility for working with next-generation sequencing files.
 - [nail](https://github.com/TravisWheelerLab/nail) : Nail is an Alignment Inference tooL
 - [palindrome-finder](https://github.com/brianli314/palindrome-finder) : A bioinformatics tool written in Rust to find palindromic sequences in DNA
-- [poasta](https://github.com/broadinstitute/poasta) : Fast and exact gap-affine partial order alignment
 - [psdm](https://github.com/mbhall88/psdm) : Compute a pairwise SNP distance matrix from one or two alignment(s)
 - [raxtax](https://github.com/noahares/raxtax) : k-mer-based non-Bayesian Taxonomic Classifier
 - [rust-bio-tools](https://github.com/rust-bio/rust-bio-tools) : A set of command line utilities based on Rust-Bio.
