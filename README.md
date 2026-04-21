@@ -101,6 +101,7 @@ bash scripts/fetch_public_data.sh
 - [K2Rmini](https://github.com/Malfoy/K2Rmini) : K2Rmini (or K-mer to Reads mini) is a tool to filter the reads contained in a FASTA/Q file based on a set of k-mers of interest.
 - [kractor](https://github.com/sam-sims/kractor) : Rapidly extract reads from a FASTQ file based on taxonomic classification via Kraken2.
 - [rasusa](https://github.com/mbhall88/rasusa) : Randomly subsample sequencing reads
+- [RastQC](https://github.com/Huang-lab/RastQC) : RastQC - Combining FastQC, MultiQC, longread QC functionality for high-throughput sequencing data, written in Rust
 - [SeqSizzle](https://github.com/ChangqingW/SeqSizzle) : SeqSizzle is a pager for viewing FASTQ files with fuzzy matching, allowing different adaptors to be colored differently.
 - [sabreur](https://github.com/ebedthan/sabreur) : fast, reliable and handy demultiplexing tool for fastx files
 - [seqtools](https://github.com/markschl/seqtool) : Fast and flexible tool for reading, modifying and writing biological sequences
