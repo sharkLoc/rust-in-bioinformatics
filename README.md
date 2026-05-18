@@ -119,6 +119,7 @@ bash scripts/fetch_public_data.sh
 - [intspan](https://github.com/wang-q/intspan) : Command line tools for IntSpan related bioinformatics operations
 - [nuc2bit](https://github.com/natir/nuc2bit) : A rust crate that provides methods for rapidly encoding and decoding nucleotides in 2-bit representation.
 - [recmap](https://github.com/vsbuffalo/recmap) : A command line tool and Rust library for working with recombination maps.
+- [sracha-rs](https://github.com/rnabioco/sracha-rs) : Rust-based sra-tools
 - [transanno](https://github.com/informationsea/transanno) : accurate LiftOver tool for new genome assemblies
 - [thirdkind](https://github.com/simonpenel/thirdkind) : Drawing reconciled phylogenetic trees allowing 1, 2 or 3 reconcillation levels
 - [xsra](https://github.com/ArcInstitute/xsra) : An efficient CLI to extract sequences from the SRA
