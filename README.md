@@ -150,6 +150,7 @@ bash scripts/fetch_public_data.sh
 - [nanocount](https://github.com/noamteyssier/nanocount) : A dual-guide protospacer counter for long-read nanopore data
 - [nanoq](https://github.com/esteinig/nanoq) : Minimal but speedy quality control for nanopore reads in Rust 🐻
 - [nextpolish2](https://github.com/Nextomics/NextPolish2) : Repeat-aware polishing genomes assembled using HiFi long reads
+- [rammap](https://github.com/jwanglab/rammap) : An extensible and performant aligner and read mapper
 - [savont](https://github.com/bluenote-1577/savont) : Amplicon sequencing variants from 16s ONT R10.4 / HiFi long reads 
 - [smrest](https://github.com/jts/smrest) : Tumour-only somatic mutation calling using long reads
 - [trgt](https://github.com/PacificBiosciences/trgt) : Tandem repeat genotyping and visualization from PacBio HiFi data
