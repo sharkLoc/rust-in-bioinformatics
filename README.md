@@ -262,6 +262,7 @@ bash scripts/fetch_public_data.sh
 - [ggetrs](https://github.com/noamteyssier/ggetrs) : Efficient querying of biological databases
 - [htsget-rs](https://github.com/umccr/htsget-rs) : A server implementation of the htsget protocol for bioinformatics in Rust
 - [ibu](https://github.com/noamteyssier/ibu) : a rust library for high throughput binary encoding of genomic sequences
+- [ontology-registry](https://github.com/P2GX/ontology-registry) : Ontology-Registry is a Rust crate designed to seamlessly fetch, manage, and persist ontology files directly from the OBO Foundry
 - [polars-bio](https://github.com/biodatageeks/polars-bio) : Blazing-Fast Bioinformatic Operations on Python DataFrames
 - [rebgzf](https://github.com/nh13/rebgzf) : Efficient gzip to BGZF transcoder using half-decompression (2-4x faster than decompress+recompress)
 - [scidataflow](https://github.com/vsbuffalo/scidataflow): Command line scientific data management tool
