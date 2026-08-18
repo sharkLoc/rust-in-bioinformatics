@@ -176,6 +176,7 @@ bash scripts/fetch_public_data.sh
 - [nohuman](https://github.com/mbhall88/nohuman) : Remove human reads from a sequencing run
 - [rosella](https://github.com/rhysnewell/rosella) : Metagenomic Binning Algorithm
 - [skani](https://github.com/bluenote-1577/skani) : Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs.
+- [skiver](https://github.com/GZHoffie/skiver) : Skiver: Reference-free quality control of (meta)genomic sequencing datasets using (k, v)-mer sketches
 - [sourmash](https://github.com/sourmash-bio/sourmash) : Quickly search, compare, and analyze genomic and metagenomic data sets.
 - [sylph](https://github.com/bluenote-1577/sylph) : ultrafast genome querying and taxonomic profiling for metagenomic samples by abundance-corrected minhash.
 - [vircov](https://github.com/esteinig/vircov) : Viral genome coverage evaluation for metagenomic diagnostics 🩸
