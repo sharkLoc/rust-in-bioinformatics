@@ -143,6 +143,7 @@ bash scripts/fetch_public_data.sh
 - [herro](https://github.com/lbcb-sci/herro) : HERRO is a highly-accurate, haplotype-aware, deep-learning tool for error correction of Nanopore R10.4.1 or R9.4.1 reads (read length of >= 10 kbps is recommended).
 - [HiPhase](https://github.com/PacificBiosciences/HiPhase) : Small variant, structural variant, and short tandem repeat phasing tool for PacBio HiFi reads
 - [isONclust3](https://github.com/aljpetri/isONclust3) : De novo clustering of long transcript reads into genes
+- [isONform](https://github.com/aljpetri/isONform) : De novo construction of isoforms from long-read data
 - [longshot](https://github.com/pjedge/longshot) : diploid SNV caller for error-prone reads
 - [lrge](https://github.com/mbhall88/lrge) : Genome size estimation from long read overlaps
 - [myloasm](https://github.com/bluenote-1577/myloasm) : A new high-resolution long-read metagenome assembler for even noisy reads
@@ -173,6 +174,7 @@ bash scripts/fetch_public_data.sh
 - [kmertools](https://github.com/anuradhawick/kmertools) : kmer based feature extraction tool for bioinformatics, metagenomics, AI/ML and more
 - [kmerutils](https://github.com/jean-pierreBoth/kmerutils) : Kmer generating, counting hashing and related
 - [Lorikeet](https://github.com/rhysnewell/Lorikeet) : Strain resolver for metagenomics
+- [Metax](https://github.com/hzi-bifo/Metax) : Metax: Accurate Cross-Domain Taxon Profiling via a Probabilistic Model of Genome Coverage
 - [nohuman](https://github.com/mbhall88/nohuman) : Remove human reads from a sequencing run
 - [rosella](https://github.com/rhysnewell/rosella) : Metagenomic Binning Algorithm
 - [skani](https://github.com/bluenote-1577/skani) : Fast, robust ANI and aligned fraction for (metagenomic) genomes and contigs.
