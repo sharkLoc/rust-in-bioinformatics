@@ -29,6 +29,7 @@ bash scripts/fetch_public_data.sh
  - [blast-rs](https://github.com/henriksson-lab/blast-rs): A pure-Rust implementation of BLAST (Basic Local Alignment Search Tool). Reads and writes databases created by NCBI , implements the core BLAST algorithm for protein and nucleotide search, and produces output in all standard BLAST formats
  - [minimap2-pure-rs](https://github.com/henriksson-lab/minimap2-pure-rs) : https://github.com/henriksson-lab/minimap2-pure-rs
  - [poasta](https://github.com/broadinstitute/poasta) : Fast and exact gap-affine partial order alignment
+ - [saber](https://github.com/raw-lab/saber) : Native Smith–Waterman homology in Rust that is fast, sensitive, low-memory, and highly scalable
 
 
 ##### bam
