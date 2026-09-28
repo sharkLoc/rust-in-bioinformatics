@@ -235,6 +235,7 @@ bash scripts/fetch_public_data.sh
 
 ##### slurm
 
+- [nf-audit](https://github.com/OtoYuki/nf-audit) : Per-process cost, unused allocation and a right-sized config for a Nextflow run, from its trace and execution report
 - [oxoflow](https://github.com/Traitome/oxo-flow) : oxo-flow is a high-performance bioinformatics pipeline engine built in Rust.
 - [slmtop](https://github.com/dawnmy/slmtop) : A terminal dashboard for realtime Slurm monitoring
 - [slurmer](https://github.com/wjwei-handsome/Slurmer) : A TUI application for monitoring and managing SLURM jobs.
