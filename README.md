@@ -218,6 +218,7 @@ bash scripts/fetch_public_data.sh
 - [oarfish](https://github.com/COMBINE-lab/oarfish) : long read RNA-seq quantification
 - [piscem](https://github.com/COMBINE-lab/piscem) : Rust wrapper for the next generation of sequence indexing and mapping
 - [rnapkin](https://github.com/ukmrs/rnapkin) : drawing RNA secondary structure with style; instantly
+- [rustar-aligner](https://github.com/scverse/rustar-aligner) : A rust implementation of STAR
 - [R2Dtool](https://github.com/comprna/R2Dtool) : R2Dtool is a set of genomics utilities for handling, integrating, and viualising isoform-mapped RNA feature data.
 - [squab](https://github.com/zaeleus/squab) : Alignment-based gene expression quantification
 
@@ -264,6 +265,7 @@ bash scripts/fetch_public_data.sh
 ##### other
 - [biobear](https://github.com/wheretrue/biobear) : Work with bioinformatic files using Arrow, Polars, and/or DuckDB
 - [binseq](https://github.com/ArcInstitute/binseq) : A high efficiency binary format for sequencing data
+- [charton](https://github.com/wangjiawen2013/charton) : Grammar of Graphics in Rust
 - [exon](https://github.com/wheretrue/exon) : Exon is an OLAP query engine specifically for biology and life science applications.
 - [ggetrs](https://github.com/noamteyssier/ggetrs) : Efficient querying of biological databases
 - [htsget-rs](https://github.com/umccr/htsget-rs) : A server implementation of the htsget protocol for bioinformatics in Rust
