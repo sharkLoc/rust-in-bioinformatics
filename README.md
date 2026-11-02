@@ -230,6 +230,7 @@ bash scripts/fetch_public_data.sh
 - [fragtk](https://github.com/stuart-lab/fragtk) : fragment file toolkit
 - [precellar](https://github.com/regulatory-genomics/precellar) : Single-cell genomics preprocessing package
 - [proseg](https://github.com/dcjones/proseg) : Probabilistic cell segmentation for in situ spatial transcriptomics
+- [rustscenic](https://github.com/Ekin-Kahraman/rustscenic) : Rust-backed Python package for single-cell gene regulatory network inference and per-cell gene-set activity scoring
 - [simpleaf](https://github.com/COMBINE-lab/simpleaf) : A rust framework to make using alevin-fry even simpler
 - [SnapATAC2](https://github.com/kaizhang/SnapATAC2) : Single-cell epigenomics analysis tools
 - [spars](https://github.com/stuart-lab/spars) : Disk-based sparse matrix stats
