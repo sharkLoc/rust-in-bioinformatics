@@ -276,6 +276,7 @@ bash scripts/fetch_public_data.sh
 - [rebgzf](https://github.com/nh13/rebgzf) : Efficient gzip to BGZF transcoder using half-decompression (2-4x faster than decompress+recompress)
 - [scidataflow](https://github.com/vsbuffalo/scidataflow): Command line scientific data management tool
 - [sufr](https://github.com/TravisWheelerLab/sufr) : Parallel Construction of Suffix Arrays in Rust
+- [zindex](https://github.com/Malfoy/Zindex) : ZOR filter based colored De Bruijn graph
 
 
 
